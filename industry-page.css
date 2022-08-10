@@ -504,9 +504,6 @@ hr {
         margin-left: 11%;
         flex-direction: column;
     }
-    .footer-socials {
-        /* margin-left: 16%; */
-    }
     .mail {
         margin-left: 12%;
         text-align: unset !important;
