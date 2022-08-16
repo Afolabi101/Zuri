@@ -744,11 +744,15 @@ span i {
 
 @media(max-width:860px) {
     .s9-card {
-        height: fit-content !important;
+         height: fit-content !important;
+         display: flex;
+         justify-content: center;
+         align-items: center;
+         margin-left: 7%;
     }
     .s9-citems {
         height: fit-content !important;
-        width: 345px;
+        width: 319px;
         margin-left: 6%;
     }
     .s9-circle {
