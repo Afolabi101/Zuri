@@ -556,6 +556,7 @@ ul a {
     }
     .sec7-flex {
         padding-inline: 9%;
+        margin-inline: auto;
     }
 }
 
